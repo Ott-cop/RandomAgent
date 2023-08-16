@@ -29,7 +29,6 @@ agentes = [#Controladores
            'Neon'
 ]
 
-#print(agentes[19])
 numAgentes = int(input('Número de Jogadores: '))
 
 resultado = random.shuffle(agentes)
