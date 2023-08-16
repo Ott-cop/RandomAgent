@@ -2,4 +2,4 @@
 
 > ### ✅ Completed Project.
 
-### Simple project in Python to select a random agent!
+### Simple project in Python to select a random agent 🎲!
